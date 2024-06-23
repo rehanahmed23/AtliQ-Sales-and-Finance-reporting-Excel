@@ -4,9 +4,9 @@
 
 **Project Goals:** 
 
-1.**Customer Performance Report**: Created a detailed [report](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Customer%20Performance%20Report.pdf) assess customer performance.
+1.**Customer Performance Report**: Created a detailed [report](https://github.com/rehanahmed23/AtliQ-Sales-and-Finance-reporting-Excel/blob/main/Customer%20Performance%20Report.pdf) assess customer performance.
 
-2.**Market Performance Comparison**: Conducted a thorough analysis comparing [market performance](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) against sales targets.
+2.**Market Performance Comparison**: Conducted a thorough analysis comparing [market performance](https://github.com/rehanahmed23/AtliQ-Sales-and-Finance-reporting-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) against sales targets.
 
 **Sales Analytics Purpose:** Empowering businesses to monitor, evaluate, and enhance their sales activities and outcomes.
 
@@ -19,9 +19,9 @@
 
 **Project Goals:** 
 
-1.**Profit and Loss (P&L) Reports**: Created [P&L reports by fiscal years](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
+1.**Profit and Loss (P&L) Reports**: Created [P&L reports by fiscal years](https://github.com/rehanahmed23/AtliQ-Sales-and-Finance-reporting-Excel/blob/main/P%26L%20Statement%20By%20Fiscal%20Years.pdf) and [P&L reports by fiscal months](https://github.com/rehanahmed23/AtliQ-Sales-and-Finance-reporting-Excel/blob/main/P%26L%20Statement%20By%20Fiscal%20Months.pdf).
 
-2.**P&L Reports by Markets**: Generated P&L reports categorized by [markets.](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/blob/main/P%26L%20Statement%20By%20Markets.pdf)
+2.**P&L Reports by Markets**: Generated P&L reports categorized by [markets.](https://github.com/rehanahmed23/AtliQ-Sales-and-Finance-reporting-Excel/blob/main/P%26L%20Statement%20By%20Markets.pdf)
 
 **Finance Analytics Purpose**: Evaluating financial performance, aiding decision-making, and fostering stakeholder communication.
 
@@ -43,4 +43,4 @@
 * Optimizing report generation through meticulous fine-tuning.
 * Developing a systematic approach to creating report-building plans.
 
-Find the detailed project reports [here](https://github.com/krunalpr/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/tree/main)
+Find the detailed project reports [here](https://github.com/rehanahmed23/AtliQ-Sales-and-Finance-reporting-Excel/tree/main)
